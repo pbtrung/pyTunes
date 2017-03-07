@@ -1,0 +1,4 @@
+node_modules/
+data/test_config.json
+data/tokens.json
+data/db.py
